@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @busyboxx
-- 👀 I’m interested in frontEnd
+- 👀 I’m interested in cutting edge technologies.
 - 🌱 I’m a fullstack developer at day and hacker by night
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
